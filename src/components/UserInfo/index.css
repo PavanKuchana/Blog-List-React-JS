@@ -1,0 +1,23 @@
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-info-image {
+  height: 100px;
+  width: 100px;
+}
+.username {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.info {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+}
